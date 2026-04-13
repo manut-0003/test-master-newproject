@@ -1,0 +1,5 @@
+
+aws_region      = "us-east-1"
+project_name    = "mindmeld"
+environment     = "dev"
+api_image       = "ACCOUNT_ID.dkr.ecr.us-east-1.amazonaws.com/mindmeld-api:latest"
